@@ -35,11 +35,15 @@
 - [🚀 How to Submit your Plugin](#-how-to-submit-your-plugin)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [weather GPT](#weather-gpt)
+  - [Ask Your PDF](#ask-your-pdf)
+  - [SEO](#seo)
   - [Pollinate drawing](#pollinate-drawing)
-  - [Clock Time](#clock-time)
-  - [Website Crawler](#website-crawler)
   - [Search Engine](#search-engine)
+  - [Mindmap](#mindmap)
+  - [Website Crawler](#website-crawler)
   - [Realtime Weather](#realtime-weather)
+  - [Clock Time](#clock-time)
 - [🛳 Self Hosting](#-self-hosting)
   - [Deploy to Vercel](#deploy-to-vercel)
 - [⌨️ Local Development](#️-local-development)
@@ -83,6 +87,54 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### weather GPT
+
+<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
+
+Get current weather information for a specific location.
+
+`weather`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Ask Your PDF
+
+<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **2023-12-16**</sup>
+
+Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.
+
+`pdf` `document` `web`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SEO
+
+<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **2023-12-16**</sup>
+
+Enter any URL and keyword and get an On-Page SEO analysis & insights!
+
+`seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Pollinate drawing
 
 <sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
@@ -90,38 +142,6 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 Generate images through pollinations.ai
 
 `drawing` `image`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Clock Time
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
-
-Display a clock to show current time
-
-`clock` `time`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Website Crawler
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
-
-Extract content from web links
-
-`web` `content-crawler`
 
 <div align="right">
 
@@ -147,6 +167,38 @@ Query search engine to get information
 
 ---
 
+### Mindmap
+
+<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
+
+A mindmap generation assistant
+
+`mindmap`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Website Crawler
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
+
+Extract content from web links
+
+`web` `content-crawler`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Realtime Weather
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
@@ -154,6 +206,22 @@ Query search engine to get information
 Get realtime weather information
 
 `weather` `realtime`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Clock Time
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
+
+Display a clock to show current time
+
+`clock` `time`
 
 <div align="right">
 

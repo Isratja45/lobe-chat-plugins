@@ -35,11 +35,15 @@
 - [🚀 如何提交您的插件](#-如何提交您的插件)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Plugins](#-awesome-plugins)
+  - [天气 GPT](#天气-gpt)
+  - [AskYouPDF](#askyoupdf)
+  - [SEO](#seo)
   - [授粉绘画](#授粉绘画)
-  - [时钟时间](#时钟时间)
-  - [网站爬虫](#网站爬虫)
   - [搜索引擎](#搜索引擎)
+  - [思维导图](#思维导图)
+  - [网站爬虫](#网站爬虫)
   - [实时天气](#实时天气)
+  - [时钟时间](#时钟时间)
 - [🛳 自主托管](#-自主托管)
   - [部署到 Vercel](#部署到-vercel)
 - [⌨️ 本地开发](#️-本地开发)
@@ -83,6 +87,54 @@
 
 <!-- AWESOME PLUGINS -->
 
+### 天气 GPT
+
+<sup>By **[@Steven Tey](https://github.com/steven-tey/weathergpt)** on **2023-12-16**</sup>
+
+获取特定位置的当前天气信息。
+
+`天气`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### AskYouPDF
+
+<sup>By **[@AskYourPDF](https://askyourpdf.com/)** on **2023-12-16**</sup>
+
+释放您的 PDF 的力量！深入您的文档，找到答案，并将信息带到您的指尖。
+
+`pdf` `文档` `web`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### SEO
+
+<sup>By **[@Orren Prunckun](https://orrenprunckun.com)** on **2023-12-16**</sup>
+
+输入任何 URL 和关键词，获取页面 SEO 分析和见解！
+
+`seo`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 授粉绘画
 
 <sup>By **[@AI0x0](https://github.com/mushan0x0/lobe-pollinations-ai)** on **2023-12-10**</sup>
@@ -90,38 +142,6 @@
 通过 pollinations.ai 进行图像生成
 
 `drawing` `image`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 时钟时间
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
-
-显示一个时钟来展示当前时间
-
-`时钟` `时间`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 网站爬虫
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
-
-从网页链接中提取内容
-
-`网页` `内容爬取器`
 
 <div align="right">
 
@@ -147,6 +167,38 @@
 
 ---
 
+### 思维导图
+
+<sup>By **[@Moonlit7](https://github.com/Moonlit7/chat-plugin-mindmap)** on **2023-12-19**</sup>
+
+思维导图生成助手
+
+`思维导图` `脑图`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 网站爬虫
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
+
+从网页链接中提取内容
+
+`网页` `内容爬取器`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 实时天气
 
 <sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
@@ -154,6 +206,22 @@
 获取实时天气信息
 
 `天气` `实时`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 时钟时间
+
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
+
+显示一个时钟来展示当前时间
+
+`时钟` `时间`
 
 <div align="right">
 
